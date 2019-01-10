@@ -2,6 +2,7 @@
 title: 
 keywords: sample homepage
 sidebar: pct_doc_zh
+summary: "if you like someone, just tell her; if you dream sth, just do it!"
 permalink: index.html
 ---
 
@@ -9,6 +10,6 @@ permalink: index.html
 
 
 
-<h1 align="center">Welcome to plainchant blog </h1>
-<p align="center" class="version">By eager7 | Updated 2018/06/28</p>
+<h1 align="center">Welcome to plainchant's blog </h1>
+<p align="center" class="version">By pct | Updated 2019/01/10</p>
 
