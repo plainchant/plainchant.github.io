@@ -1,7 +1,7 @@
 ---
 title: 
 keywords: sample homepage
-sidebar: pct_doc_zh
+sidebar: mydoc_sidebar
 summary: "if you like someone, just tell her; if you dream sth, just do it!"
 permalink: index.html
 ---
