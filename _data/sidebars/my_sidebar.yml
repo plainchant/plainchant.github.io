@@ -218,7 +218,7 @@ entries:
             subfolderitems:
 
               - title: 01.NULS安装和测试
-                url: /01. NULS安装和测试.html
+                url: /01.NULS安装和测试.html
                 output: web
 
               - title: 02.Nuls代码解读-启动
