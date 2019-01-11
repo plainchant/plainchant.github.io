@@ -44,8 +44,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: 00.goland调试配置
+      url: /00.goland调试配置.html
       output: web, pdf
 
     - title: 5.0 Release notes
@@ -233,8 +233,8 @@ entries:
                 url: /04.Nuls代码解读-事件.html
                 output: web
 
-      - title: Ont
-        url: /mydoc_tag_archives_overview.html
+      - title:
+        url: 
         output: web
 
         subfolders:
