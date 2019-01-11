@@ -191,22 +191,21 @@ entries:
                 url: /06.EOS智能合约设计.html
                 output: web
 
-      - title: Fabric
+      - title:
         url: /mydoc_tag_archives_overview.html
-        output: web
-
+        output: web, pdf
         subfolders:
           - title: Fabric
-            output: web
+            output: web, pdf
             subfolderitems:
 
               - title: 01.Fabric运行测试
                 url: /01.Fabric运行测试.html
-                output: web
+                output: web, pdf
 
               - title: 02.Fabric消息proto解析
                 url: /02.Fabric消息proto解析.html
-                output: web
+                output: web, pdf
 
       - title: Nuls
         url: /mydoc_tag_archives_overview.html
@@ -234,17 +233,68 @@ entries:
                 output: web
 
       - title:
-        url: 
-        output: web
-
+        url:
+        output: web, pdf
         subfolders:
           - title: Ont
-            output: web
+            output: web, pdf
             subfolderitems:
 
-              - title: Formatting pages
+              - title: 01.ONT代码解读--环境搭建和运行
+                url: /01.ONT代码解读--环境搭建和运行.html
+                output: web, pdf
+
+              - title: Formatting
                 url: /tag_formatting.html
-                output: web
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
+
+              - title: Formatting
+                url: /tag_formatting.html
+                output: web, pdf
 
       - title: Tendermint
         url: /mydoc_tag_archives_overview.html
