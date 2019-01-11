@@ -9,7 +9,7 @@ folder: doc_zh
 
 <p align="center">
   <img
-    src="https://github.com/plainchant/document/blob/master/xiaoxin.jpg"
+    src="https://github.com/plainchant/document/blob/master/ico.png"
     width="200px"
   >
 </p>
@@ -20,5 +20,5 @@ folder: doc_zh
 
 ---
 
-#### github
+#### code repositories
 https://github.com/eager7
