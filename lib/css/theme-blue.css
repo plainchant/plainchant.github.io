@@ -179,7 +179,7 @@ p{
 }
 body {
     font-family: "SourceSansPro-Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 1px;
+    font-size: 16px;
     line-height: 1.42857143;
     color: #444 !important;
     background-color: #fff;
@@ -205,7 +205,7 @@ h1 {
     font-family: "SourceSansPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 h2  {
-    font-size: 30px !important;
+    font-size: 3px !important;
 }
 h1 {
     margin-top: 30px;
