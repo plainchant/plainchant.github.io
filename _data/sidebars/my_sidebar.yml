@@ -146,17 +146,49 @@ entries:
                 url: /tag_formatting.html
                 output: web
 
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
       - title: Eos
         url: /mydoc_tag_archives_overview.html
         output: web
 
         subfolders:
-          - title: Ecoball
+          - title: Eos
             output: web
             subfolderitems:
 
-              - title: Formatting pages
-                url: /tag_formatting.html
+              - title: 00.编译错误
+                url: /00.编译错误.html
+                output: web
+
+              - title: 01.EOS安装
+                url: /01.EOS安装.html
+                output: web
+
+              - title: 02.EOS运行测试
+                url: /02.EOS运行测试.html
+                output: web
+
+              - title: 03.EOS代码解读
+                url: /03.EOS代码解读.html
+                output: web
+
+              - title: 04.EOS账户权限测试
+                url: /04.EOS账户权限测试.html
+                output: web
+
+              - title: 05.EOS交易打包&区块同步流程
+                url: /05.EOS交易打包&区块同步流程.html
+                output: web
+
+              - title: 06.EOS智能合约设计
+                url: /06.EOS智能合约设计.html
                 output: web
 
       - title: Fabric
@@ -164,7 +196,7 @@ entries:
         output: web
 
         subfolders:
-          - title: Ecoball
+          - title: Fabric
             output: web
             subfolderitems:
 
@@ -177,7 +209,7 @@ entries:
         output: web
 
         subfolders:
-          - title: Ecoball
+          - title: Nuls
             output: web
             subfolderitems:
 
@@ -190,7 +222,7 @@ entries:
         output: web
 
         subfolders:
-          - title: Ecoball
+          - title: Ont
             output: web
             subfolderitems:
 
@@ -203,7 +235,7 @@ entries:
         output: web
 
         subfolders:
-          - title: Ecoball
+          - title: Tendermint
             output: web
             subfolderitems:
 
@@ -217,7 +249,7 @@ entries:
         output: web
 
         subfolders:
-          - title: Ecoball
+          - title: Wasm
             output: web
             subfolderitems:
 
