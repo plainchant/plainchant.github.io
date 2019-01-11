@@ -1,9 +1,9 @@
 ---
 title: 
 keywords: sample homepage
-sidebar: my_sidebar
+sidebar: my_sidebar #对应data下的目录设置文件
 summary: "if you like someone, just tell her; if you dream sth, just do it!"
-permalink: index.html
+permalink: index.html #映射成的html文件
 ---
 
 
