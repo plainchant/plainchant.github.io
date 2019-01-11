@@ -74,7 +74,6 @@ entries:
 
       - title:
         output: web
-
         subfolders:
           - title: Chorus
             output: web
@@ -134,7 +133,6 @@ entries:
 
       - title:
         output: web
-
         subfolders:
           - title: Ecoball
             output: web
