@@ -3,7 +3,7 @@ title: Introduce
 tags: [introduce]
 keywords: introduce
 sidebar: my_sidebar
-permalink: documentation_cn.html
+permalink: mydoc_introduction.html
 folder: doc_zh
 ---
 
