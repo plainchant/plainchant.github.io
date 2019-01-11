@@ -73,7 +73,7 @@ entries:
     folderitems:
 
       - title:
-        output: web
+        output: web, pdf
         subfolders:
           - title: Chorus
             output: web
@@ -132,7 +132,7 @@ entries:
                 output: web
 
       - title:
-        output: web
+        output: web, pdf
         subfolders:
           - title: Ecoball
             output: web
@@ -151,9 +151,7 @@ entries:
                 output: web
 
       - title:
-        url: /mydoc_tag_archives_overview.html
-        output: web
-
+        output: web, pdf
         subfolders:
           - title: Eos
             output: web
@@ -188,7 +186,6 @@ entries:
                 output: web
 
       - title:
-        url: /mydoc_tag_archives_overview.html
         output: web, pdf
         subfolders:
           - title: Fabric
@@ -204,9 +201,7 @@ entries:
                 output: web, pdf
 
       - title:
-        url: /mydoc_tag_archives_overview.html
-        output: web
-
+        output: web, pdf
         subfolders:
           - title: Nuls
             output: web
@@ -229,7 +224,6 @@ entries:
                 output: web
 
       - title:
-        url: /mydoc_tag_archives_overview.html
         output: web, pdf
         subfolders:
           - title: Ont
@@ -293,9 +287,7 @@ entries:
                 output: web, pdf
 
       - title:
-        url: /mydoc_tag_archives_overview.html
-        output: web
-
+        output: web, pdf
         subfolders:
           - title: Tendermint
             output: web
@@ -305,11 +297,8 @@ entries:
                 url: /tag_formatting.html
                 output: web
 
-
       - title: Wasm
-        url: /mydoc_tag_archives_overview.html
-        output: web
-
+        output: web, pdf
         subfolders:
           - title: Wasm
             output: web
