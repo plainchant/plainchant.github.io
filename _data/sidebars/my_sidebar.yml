@@ -204,8 +204,8 @@ entries:
                 url: /01.Fabric运行测试.html
                 output: web
 
-              - title: Formatting pages
-                url: /tag_formatting.html
+              - title: 02.Fabric消息proto解析
+                url: /02.Fabric消息proto解析.html
                 output: web
 
       - title: Nuls
