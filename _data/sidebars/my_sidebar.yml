@@ -72,7 +72,7 @@ entries:
     output: web, pdf
     folderitems:
 
-      - title: Chorus
+      - title:
         url: /mydoc_tag_archives_overview.html
         output: web
 
@@ -133,7 +133,7 @@ entries:
                 url: /12.Chorus代码解读-共识模块.html
                 output: web
 
-      - title: Ecoball
+      - title:
         url: /mydoc_tag_archives_overview.html
         output: web
 
@@ -154,7 +154,7 @@ entries:
                 url: /tag_formatting.html
                 output: web
 
-      - title: Eos
+      - title:
         url: /mydoc_tag_archives_overview.html
         output: web
 
@@ -207,7 +207,7 @@ entries:
                 url: /02.Fabric消息proto解析.html
                 output: web, pdf
 
-      - title: Nuls
+      - title:
         url: /mydoc_tag_archives_overview.html
         output: web
 
@@ -233,7 +233,7 @@ entries:
                 output: web
 
       - title:
-        url:
+        url: /mydoc_tag_archives_overview.html
         output: web, pdf
         subfolders:
           - title: Ont
@@ -296,7 +296,7 @@ entries:
                 url: /14.ONT代码解读--合约执行流程.html
                 output: web, pdf
 
-      - title: Tendermint
+      - title:
         url: /mydoc_tag_archives_overview.html
         output: web
 
