@@ -165,7 +165,7 @@ pre {
     display: block;
     padding: 24px 40px!important;
     margin: 0 0 10px;
-    font-size: 1px;
+    font-size: 13px;
     line-height: 1.42857143;
     color: #333;
     word-break: break-all;
@@ -175,11 +175,11 @@ pre {
     border-radius: 4px;
 }
 p{
-    margin-bottom: 1px !important;
+    margin-bottom: 15px !important;
 }
 body {
     font-family: "SourceSansPro-Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 1px;
+    font-size: 16px;
     line-height: 1.42857143;
     color: #444 !important;
     background-color: #fff;
@@ -197,7 +197,7 @@ h4 {
     color: #444 !important;
 }
 h5 {
-    font-size: 1px !important;
+    font-size: 16px !important;
     font-weight: bold;
     font-family: "SourceSansPro-Bold","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
@@ -205,14 +205,14 @@ h1 {
     font-family: "SourceSansPro-Light","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 h2  {
-    font-size: 3px !important;
+    font-size: 30px !important;
 }
 h1 {
-    margin-top: 3px;
+    margin-top: 30px;
 }
 .version{
-    margin-top:2px;
-    margin-bottom:4px !important;
+    margin-top:20px;
+    margin-bottom:40px !important;
     color:#afacac;
 }
 #mysidebar{
