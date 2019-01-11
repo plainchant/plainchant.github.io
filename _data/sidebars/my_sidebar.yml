@@ -81,15 +81,6 @@ entries:
               url: /tag_formatting.html
               output: web
 
-      subfolders:
-        - title: Eos
-          output: web
-          subfolderitems:
-
-            - title: Formatting pages
-              url: /tag_formatting.html
-              output: web
-
 
   - title: Linux
     output: web, pdf
