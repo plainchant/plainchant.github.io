@@ -2,7 +2,7 @@
 encoding: utf-8
 repository: tomjoht/documentation-theme-jekyll
 
-output: web
+output: web, pdf
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
 topnav_title: plainchant Blog
@@ -48,7 +48,7 @@ feedback_disable: true
 # feedback_text: "Need help?"
 # if you uncomment the previous line, it changes the Feedback text
 
-# feedback_link: "http://helpy.io/"
+feedback_link: "https://plainchant.github.io/index.html"
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge
