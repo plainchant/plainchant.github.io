@@ -133,6 +133,23 @@ entries:
                 url: /12.Chorus代码解读-共识模块.html
                 output: web
 
+        subfolders:
+          - title: Ecoball
+            output: web
+            subfolderitems:
+
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
       - title:
         url: /mydoc_tag_archives_overview.html
         output: web
