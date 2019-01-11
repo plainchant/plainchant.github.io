@@ -71,38 +71,24 @@ entries:
   - title: BlockChain
     output: web, pdf
 
-    folderitems:
-    - title: Pages
-      url: /mydoc_pages.html
-      output: web, pdf
+      subfolders:
+        - title: Ecoball
+          output: web
+          subfolderitems:
 
-    - title: Posts
-      url: /mydoc_posts.html
-      output: web, pdf
+            - title: Formatting pages
+              url: /tag_formatting.html
+              output: web
 
-    - title: Lists
-      url: /mydoc_lists.html
-      output: web, pdf
+      subfolders:
+        - title: Eos
+          output: web
+          subfolderitems:
 
-    - title: Conditional logic
-      url: /mydoc_conditional_logic.html
-      output: web, pdf
+            - title: Formatting pages
+              url: /tag_formatting.html
+              output: web
 
-    - title: Content reuse
-      url: /mydoc_content_reuse.html
-      output: web, pdf
-
-    - title: Collections
-      url: /mydoc_collections.html
-      output: web, pdf
-
-    - title: WebStorm editor tips
-      url: /mydoc_webstorm_text_editor.html
-      output: web, pdf
-
-    - title: Atom editor tips
-      url: /mydoc_atom_text_editor.html
-      output: web, pdf
 
   - title: Linux
     output: web, pdf
