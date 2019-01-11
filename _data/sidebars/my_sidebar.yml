@@ -29,15 +29,15 @@ entries:
       type: homepage
 
     - title: Introduction
-      url: /mydoc_introduction.html
+      url: /mydoc_introduction.md
       output: web, pdf
 
     - title: Supported features
-      url: /mydoc_supported_features.html
+      url: /mydoc_supported_features.md
       output: web, pdf
 
     - title: Support
-      url: /mydoc_support.html
+      url: /mydoc_support.md
       output: web, pdf
 
   - title: Golang
