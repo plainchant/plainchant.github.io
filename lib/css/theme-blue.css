@@ -128,7 +128,7 @@ div.sidebarTitle {
 }
 
 li.sidebarTitle {
-  margin-top:20px;
+  margin-top:10px;
     font-weight:normal;
     font-size:130%;
     color: #ED1951;
@@ -179,7 +179,7 @@ p{
 }
 body {
     font-family: "SourceSansPro-Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 13px;
+    font-size: 12px;
     line-height: 1.42857143;
     color: #444 !important;
     background-color: #fff;
