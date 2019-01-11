@@ -200,6 +200,10 @@ entries:
             output: web
             subfolderitems:
 
+              - title: 01.Fabric运行测试
+                url: /01.Fabric运行测试.html
+                output: web
+
               - title: Formatting pages
                 url: /tag_formatting.html
                 output: web
