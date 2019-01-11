@@ -70,6 +70,7 @@ entries:
 
   - title: BlockChain
     output: web, pdf
+    folderitems:
 
       subfolders:
         - title: Ecoball
