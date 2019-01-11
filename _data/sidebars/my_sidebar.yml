@@ -72,15 +72,31 @@ entries:
     output: web, pdf
     folderitems:
 
-      subfolders:
-        - title: Ecoball
-          output: web
-          subfolderitems:
+      - title: EOS
+        url: /mydoc_tag_archives_overview.html
+        output: web
 
-            - title: Formatting pages
-              url: /tag_formatting.html
-              output: web
+        subfolders:
+          - title: Ecoball
+            output: web
+            subfolderitems:
 
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
+      - title: ABA
+        url: /mydoc_tag_archives_overview.html
+        output: web
+
+        subfolders:
+          - title: Ecoball
+            output: web
+            subfolderitems:
+
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
 
   - title: Linux
     output: web, pdf
