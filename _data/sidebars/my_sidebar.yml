@@ -217,8 +217,20 @@ entries:
             output: web
             subfolderitems:
 
-              - title: Formatting pages
-                url: /tag_formatting.html
+              - title: 01.NULS安装和测试
+                url: /01. NULS安装和测试.html
+                output: web
+
+              - title: 02.Nuls代码解读-启动
+                url: /02.Nuls代码解读-启动.html
+                output: web
+
+              - title: 03.Nuls代码解读-共识
+                url: /03.Nuls代码解读-共识.html
+                output: web
+
+              - title: 04.Nuls代码解读-事件
+                url: /04.Nuls代码解读-事件.html
                 output: web
 
       - title: Ont
