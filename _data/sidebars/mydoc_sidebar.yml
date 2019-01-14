@@ -37,7 +37,6 @@ entries:
     folderitems:
 
     - title:
-      url: /mydoc_introduction.html
       output: web, pdf
 
       subfolders:
