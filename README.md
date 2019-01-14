@@ -1,2 +1,0 @@
-# plainchant.github.io
-blog

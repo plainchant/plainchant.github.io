@@ -20,3 +20,9 @@ entries:
     - title: Product 2
       url: /p2_landing_page.html
       output: web
+    - title: ENGLISH
+      url: /ont_doc_page.html
+      output: web
+    - title: 中文
+      url: /ont_wendang_page.html
+      output: web
