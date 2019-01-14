@@ -117,6 +117,7 @@ entries:
 
     - title:
       output: web, pdf
+
       subfolders:
       - title: Eos
         output: web
