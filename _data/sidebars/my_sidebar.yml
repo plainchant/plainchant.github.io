@@ -297,7 +297,7 @@ entries:
                 url: /tag_formatting.html
                 output: web
 
-      - title: Wasm
+      - title: 
         output: web, pdf
         subfolders:
           - title: Wasm
