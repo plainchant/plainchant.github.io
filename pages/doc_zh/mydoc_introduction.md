@@ -2,7 +2,7 @@
 title: Introduce
 tags: [introduce]
 keywords: introduce
-sidebar: my_sidebar
+sidebar: mydoc_sidebar
 permalink: mydoc_introduction.html #需要和文件同名
 folder: doc_zh
 ---
