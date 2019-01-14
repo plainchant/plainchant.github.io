@@ -274,22 +274,23 @@ entries:
           url: /tag_formatting.html
           output: web
 
-
   - title: Golang
     output: web, pdf
-    folderitems:
+    subfolders:
+      - title: Chorus
+        output: web
+        subfolderitems:
+          - title: About Ruby, Gems, Bundler, etc.
+            url: /mydoc_about_ruby_gems_etc.html
+            output: web, pdf
 
-    - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
-      output: web, pdf
-
-    - title: Install Jekyll on Mac
-      url: /mydoc_install_jekyll_on_mac.html
-      output: web, pdf
-
-    - title: Install Jekyll on Windows
-      url: /mydoc_install_jekyll_on_windows.html
-      output: web, pdf
+      - title: Install Jekyll on Mac
+        url: /mydoc_install_jekyll_on_mac.html
+        output: web, pdf
+        subfolderitems:
+          - title: Install Jekyll on Windows
+            url: /mydoc_install_jekyll_on_windows.html
+            output: web, pdf
 
   - title: Linux
     output: web, pdf
@@ -402,10 +403,6 @@ entries:
     - title: Commenting on files
       url: /mydoc_commenting_on_files.html
       output: web, pdf
-
-#    - title: Git collaboration
-#      url: /mydoc_git_collaboration
-#      output: web, pdf
 
   - title: Life
     output: web, pdf
