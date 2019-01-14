@@ -1,5 +1,5 @@
 ---
-title: "Welcome to panchangtao's blog"
+title: "Welcome"
 keywords: sample homepage
 tags: [start]
 sidebar: mydoc_sidebar
@@ -8,5 +8,5 @@ summary:
 ---
 
 
-<h1 align="center">Welcome to eager7 blog </h1>
-<p align="center" class="version">By eager7 | Updated 2018/06/28</p>
+<h1 align="center">Welcome to pan changtao's blog </h1>
+<p align="center" class="version">By pct | Updated 2018/06/28</p>
