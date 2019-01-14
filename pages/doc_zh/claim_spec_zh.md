@@ -18,7 +18,7 @@ folder: doc_zh
 - 签发声明；
 - 验证声明。
 
-![claim workflow](./lib/images/claim_workflow.png)
+![claim workflow](./images/claim_workflow.png)
 
 ## 1. 签发   
 可信声明的颁发过程涉及两个角色，即签发者（Issuer）与接收者（Receipient）。
