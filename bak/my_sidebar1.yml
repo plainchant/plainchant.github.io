@@ -1,0 +1,310 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product:
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Introduction
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: Supported features
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: Support
+      url: /mydoc_support.md
+      output: web, pdf
+
+  - title: Golang
+    output: web, pdf
+    folderitems:
+
+    - title: 00.goland调试配置
+      url: /00.goland调试配置.html
+      output: web, pdf
+
+    - title: 5.0 Release notes
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+  - title: ProgramTools
+    output: web, pdf
+    folderitems:
+
+    - title: About Ruby, Gems, Bundler, etc.
+      url: /mydoc_about_ruby_gems_etc.html
+      output: web, pdf
+
+    - title: Install Jekyll on Mac
+      url: /mydoc_install_jekyll_on_mac.html
+      output: web, pdf
+
+    - title: Install Jekyll on Windows
+      url: /mydoc_install_jekyll_on_windows.html
+      output: web, pdf
+
+  - title: BlockChain
+    output: web, pdf
+    folderitems:
+
+      - title:
+        output: web, pdf
+        subfolders:
+          - title: Chorus
+            output: web
+            subfolderitems:
+
+              - title: 00.Question
+                url: /Question.html
+                output: web
+
+              - title: 01.Chorus安装运行
+                url: /01.Chorus安装运行.html
+                output: web
+
+              - title: 02.Chorus代码解读
+                url: /02.Chorus代码解读.html
+                output: web
+
+              - title: 03.Chorus代码解读-account命令
+                url: /03.Chorus代码解读-account命令.html
+                output: web
+
+              - title: 04.Chorus中RPC启动流程
+                url: /04.Chorus中RPC启动流程.html
+                output: web
+
+              - title: 05.Chorus代码解读--tx命令
+                url: /05.Chorus代码解读--tx命令.html
+                output: web
+
+              - title: 06.Chorus代码解读-账单获取
+                url: /06.Chorus代码解读-账单获取.html
+                output: web
+
+              - title: 07.节点认证
+                url: /07.节点认证.html
+                output: web
+
+              - title: 08.Pool启动和P2P映射
+                url: /08.Pool启动和P2P映射.html
+                output: web
+
+              - title: 09.Chorus代码解读-出块条件
+                url: /09.Chorus代码解读-出块条件.html
+                output: web
+
+              - title: 10.Chorus代码解读-pool类
+                url: /10.Chorus代码解读-pool类.html
+                output: web
+
+              - title: 11.Chorus代码解读-bpRequester类
+                url: /11.Chorus代码解读-bpRequester类.html
+                output: web
+
+              - title: 12.Chorus代码解读-共识模块
+                url: /12.Chorus代码解读-共识模块.html
+                output: web
+
+      - title:
+        output: web, pdf
+        subfolders:
+          - title: Ecoball
+            output: web
+            subfolderitems:
+
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
+      - title:
+        output: web, pdf
+        subfolders:
+          - title: Eos
+            output: web
+            subfolderitems:
+
+              - title: 00.编译错误
+                url: /00.编译错误.html
+                output: web
+
+              - title: 01.EOS安装
+                url: /01.EOS安装.html
+                output: web
+
+              - title: 02.EOS运行测试
+                url: /02.EOS运行测试.html
+                output: web
+
+              - title: 03.EOS代码解读
+                url: /03.EOS代码解读.html
+                output: web
+
+              - title: 04.EOS账户权限测试
+                url: /04.EOS账户权限测试.html
+                output: web
+
+              - title: 05.EOS交易打包&区块同步流程
+                url: /05.EOS交易打包&区块同步流程.html
+                output: web
+
+              - title: 06.EOS智能合约设计
+                url: /06.EOS智能合约设计.html
+                output: web
+
+      - title:
+        output: web, pdf
+        subfolders:
+          - title: Fabric
+            output: web, pdf
+            subfolderitems:
+
+              - title: 01.Fabric运行测试
+                url: /01.Fabric运行测试.html
+                output: web, pdf
+
+              - title: 02.Fabric消息proto解析
+                url: /02.Fabric消息proto解析.html
+                output: web, pdf
+
+      - title:
+        output: web, pdf
+        subfolders:
+          - title: Nuls
+            output: web
+            subfolderitems:
+
+              - title: 01.NULS安装和测试
+                url: /01.NULS安装和测试.html
+                output: web
+
+              - title: 02.Nuls代码解读-启动
+                url: /02.Nuls代码解读-启动.html
+                output: web
+
+              - title: 03.Nuls代码解读-共识
+                url: /03.Nuls代码解读-共识.html
+                output: web
+
+              - title: 04.Nuls代码解读-事件
+                url: /04.Nuls代码解读-事件.html
+                output: web
+
+      - title:
+        output: web, pdf
+        subfolders:
+          - title: Ont
+            output: web, pdf
+            subfolderitems:
+
+              - title: 01.ONT代码解读--环境搭建和运行
+                url: /01.ONT代码解读--环境搭建和运行.html
+                output: web, pdf
+
+              - title: 02.ONT代码解读--初始化
+                url: /02.ONT代码解读--初始化.html
+                output: web, pdf
+
+              - title: 03.ONT代码解读--线程梳理
+                url: /03.ONT代码解读--线程梳理.html
+                output: web, pdf
+
+              - title: 04.ONT代码解读--core目录分析1
+                url: /04.ONT代码解读--core目录分析1.html
+                output: web, pdf
+
+              - title: 05.ONT代码解读--core目录分析2
+                url: /05.ONT代码解读--core目录分析2.html
+                output: web, pdf
+
+              - title: 06.ONT代码解读--Ledger流程图
+                url: /06.ONT代码解读--Ledger流程图.html
+                output: web, pdf
+
+              - title: 07.ONT代码解读--net目录
+                url: /07.ONT代码解读--net目录.html
+                output: web, pdf
+
+              - title: 08.ONT代码解读--txnpool目录
+                url: /08.ONT代码解读--txnpool目录.html
+                output: web, pdf
+
+              - title: 09.ONT多节点测试
+                url: /09.ONT多节点测试.html
+                output: web, pdf
+
+              - title: 10.ONT代码解读--如何与其他节点建立连接
+                url: /10.ONT代码解读--如何与其他节点建立连接.html
+                output: web, pdf
+
+              - title: 11.ONT代码解读--交易池同步
+                url: /11.ONT代码解读--交易池同步.html
+                output: web, pdf
+
+              - title: 12.ONT代码解读--本地出块流程
+                url: /12.ONT代码解读--本地出块流程.html
+                output: web, pdf
+
+              - title: 13.ONT代码解读--网络节点出块后本地接收流程
+                url: /13.ONT代码解读--网络节点出块后本地接收流程.html
+                output: web, pdf
+
+              - title: 14.ONT代码解读--合约执行流程
+                url: /14.ONT代码解读--合约执行流程.html
+                output: web, pdf
+
+      - title:
+        output: web, pdf
+        subfolders:
+          - title: Tendermint
+            output: web
+            subfolderitems:
+
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
+      - title:
+        output: web, pdf
+        subfolders:
+          - title: Wasm
+            output: web
+            subfolderitems:
+
+              - title: Formatting pages
+                url: /tag_formatting.html
+                output: web
+
