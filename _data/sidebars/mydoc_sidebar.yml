@@ -270,7 +270,34 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Formatting pages
-          url: /tag_formatting.html
+        - title: 01.Wasm工具安装使用
+          url: /01.Wasm工具安装使用.html
+          output: web
+        - title: 02.go版本wasm解析器分析
+          url: /02.go版本wasm解析器分析.html
+          output: web
+        - title: 03.ONT实现API的流程
+          url: /03.ONT实现API的流程.html
+          output: web
+        - title: 04.Wagon实现一个log函数
+          url: /04.Wagon实现一个log函数.html
+          output: web
+        - title: 05.Wagon实现log函数的第二种方法
+          url: /05.Wagon实现log函数的第二种方法.html
+          output: web
+        - title: 06.解析wasm二进制文件
+          url: /06.解析wasm二进制文件.html
+          output: web
+        - title: 07.ABA Log函数问题解析
+          url: /07.ABA Log函数问题解析.html
+          output: web
+        - title: 08.helloworld例程
+          url: /08.helloworld例程.html
+          output: web
+        - title: 09.wagon传入外部参数
+          url: /09.wagon传入外部参数.html
+          output: web
+        - title: 10.wagon外部参数和内部参数的统一
+          url: /10.wagon外部参数和内部参数的统一.html
           output: web
 
